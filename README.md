@@ -30,3 +30,32 @@ Este repositorio proporciona herramientas avanzadas para el análisis y pronóst
 1. **Clona el Repositorio**:
    ```bash
    git clone https://github.com/christiansakerb/Series_Financieras_Yahoo.git
+
+
+2. **Instala las Dependencias**:
+   - **En Python**:
+     Asegúrate de tener `pip` instalado y usa el siguiente comando para instalar las dependencias necesarias:
+     ```bash
+     pip install -r requirements.txt
+     ```
+   - **En R**:
+     Asegúrate de tener R y RStudio instalados. Ejecuta el siguiente script en R para instalar los paquetes necesarios:
+     ```R
+     install.packages(c("forecast", "randomForest", "nnet", "splines"))
+     ```
+
+3. **Configura el Entorno**:
+   - Revisa los archivos `requirements.txt` (para Python) y `install_packages.R` (para R) para asegurar que todas las librerías necesarias estén instaladas.
+
+4. **Ejecuta los Scripts de Análisis**:
+   - **En Python**:
+     Ejecuta los scripts en los notebooks:
+
+
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Si tienes ideas para mejorar este proyecto, por favor abre un _issue_ o envía un _pull request_.
+
+## 📫 Contacto
+
+Para cualquier pregunta o comentario, no dudes en ponerte en contacto a través de mi contacto en mi perfil.
