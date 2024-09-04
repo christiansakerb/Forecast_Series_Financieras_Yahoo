@@ -1,0 +1,13 @@
+yfinance
+pandas_datareader
+skforecast
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+joblib
+datetime
+math
+warnings
+keras
