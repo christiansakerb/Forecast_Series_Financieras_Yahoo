@@ -29,4 +29,4 @@ Este repositorio proporciona herramientas avanzadas para el análisis y pronóst
 
 1. **Clona el Repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/analisis-serie-financiera.git
+   git clone https://github.com/christiansakerb/Series_Financieras_Yahoo.git
