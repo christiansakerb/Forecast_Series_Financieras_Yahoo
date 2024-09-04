@@ -21,7 +21,7 @@ Este repositorio proporciona herramientas avanzadas para el análisis y pronóst
 ## 📊 Importancia y Beneficios
 
 - **Predicción Precisa**: Modelos avanzados que ayudan a prever el comportamiento futuro de activos, crucial para la toma de decisiones estratégicas.
-- **Identificación de Patrones**: Análisis de datos para descubrir tendencias y patrones ocultos, mejorando la comprensión del mercado.
+- **Identificación de Patrones**: Análisis de datos para descubrir tendencias y patrones ocultos, mejorando la comprensión del mercado optimizando las utilidades.
 - **Flexibilidad y Escalabilidad**: Herramientas que se adaptan a diferentes tipos de series temporales y se escalan según la necesidad del análisis.
 - **Optimización de Estrategias**: Resultados detallados que permiten ajustar estrategias de inversión y gestión de riesgos con base en datos precisos.
 
@@ -49,7 +49,10 @@ Este repositorio proporciona herramientas avanzadas para el análisis y pronóst
 
 4. **Ejecuta los Scripts de Análisis**:
    - **En Python**:
-     Ejecuta los scripts en los notebooks:
+     Ejecuta los scripts en los notebooks estableciendo el activo a modelar:
+     ![image](https://github.com/user-attachments/assets/5543aaed-f79d-44af-80d4-27e9f982b519)
+
+
 
 
 ## 🤝 Contribuciones
